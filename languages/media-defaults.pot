@@ -1,0 +1,144 @@
+# Copyright (C) 2016 Media Defaults
+# This file is distributed under the same license as the Media Defaults package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Defaults 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/media-defaults\n"
+"POT-Creation-Date: 2016-10-11 19:19:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-media-defaults-admin.php:96
+msgid "Thank you for using Media Defaults! You can now set your new defaults here"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:98
+#: admin/class-media-defaults-admin.php:219
+msgid "Settings &gt; Media"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:149
+msgid "Gallery Settings"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:152
+msgid "Link To"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:162
+#: admin/class-media-defaults-admin.php:430
+msgid "Attachment Page"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:165
+#: admin/class-media-defaults-admin.php:432
+msgid "Media File"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:168
+#: admin/class-media-defaults-admin.php:434
+msgid "None"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:174
+msgid "Columns"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:188
+msgid "Random Order"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:194
+msgid "Size"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:204
+#: admin/class-media-defaults-admin.php:495
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:205
+#: admin/class-media-defaults-admin.php:497
+msgid "Medium"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:206
+#: admin/class-media-defaults-admin.php:499
+msgid "Large"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:207
+#: admin/class-media-defaults-admin.php:501
+msgid "Full Size"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:218
+msgid "Defaults for these settings can be changed in"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:236
+msgid "Inserting Media"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:240
+msgid "Uploaded to this Post"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:251
+msgid "Galleries"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:255
+msgid "Default image link"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:260
+msgid "Default number of columns"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:266
+msgid "Random"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:272
+msgid "Default image size"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:278
+msgid "Donate to <em>Media Defaults</em>"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:292
+msgid "<strong><em>Inserting Media</em></strong> &amp; <strong><em>Galleries</em></strong> options are enabled by the <em>Media Defaults</em> plugin"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:295
+msgid "If you would like to donate to the author of <em>Media Defaults</em>, please use the button below. Any amount is very welcome."
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:328
+msgid "Hide the &quot;Donate&quot; button"
+msgstr ""
+
+#: admin/class-media-defaults-admin.php:476
+msgid "Sort galleries randomly by default"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Media Defaults"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://squarestarworkshop.com/wordpress-plugins/media-defaults/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Set site-wide defaults for creating new galleries (number of columns, link destination, size, etc.) and the attachment filter for inserting new media (\"Uploaded to this post\" vs. \"Images\")."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Square Star Workshop"
+msgstr ""
